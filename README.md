@@ -1,6 +1,5 @@
 <div align="center">
-  <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=40&color=F94892&center=true&vCenter=true&width=600&lines=Nguyễn+Đắc+Hiếu" alt="Nguyễn Đắc Hiếu" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Space+Mono&weight=600&size=42&color=E83E8C&center=true&vCenter=true&width=600&duration=1&pause=9999999&repeat=false&lines=Nguyễn+Đắc+Hiếu" alt="Nguyễn Đắc Hiếu" />
 </div>
   <p><b>Full-Stack Developer | Tech Enthusiast | Open to Collaboration</b></p>
   
