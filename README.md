@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Space+Mono&weight=600&size=42&color=E83E8C&center=true&vCenter=true&width=600&duration=1&pause=9999999&repeat=false&lines=Nguyễn+Đắc+Hiếu" alt="Nguyễn Đắc Hiếu" />
-</div>
+  <img src="https://readme-typing-svg.demolab.com/?font=Space+Mono&weight=700&size=24&color=FFFFFF&background=000000&center=true&vCenter=true&width=550&height=70&duration=1&pause=9999999&repeat=false&lines=HELLO,+NGUYEN-DAC-HIEU" alt="Hello Banner" />
+  <h1>🌍 Welcome to my universe!</h1>
   <p><b>Full-Stack Developer | Tech Enthusiast | Open to Collaboration</b></p>
   
   <img src="https://komarev.com/ghpvc/?username=NguyenDacHieu1303&color=purple&style=flat-square" alt="Profile Views" />
