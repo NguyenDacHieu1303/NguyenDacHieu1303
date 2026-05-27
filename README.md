@@ -41,3 +41,11 @@
 
 ### 📊 GitHub Activity Graph
 [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NguyenDacHieu1303&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+### 🐍 Coder Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NguyenDacHieu1303/NguyenDacHieu1303/output-snake/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NguyenDacHieu1303/NguyenDacHieu1303/output-snake/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NguyenDacHieu1303/NguyenDacHieu1303/output-snake/github-contribution-grid-snake.svg">
+</picture>
