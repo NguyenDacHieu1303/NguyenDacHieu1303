@@ -1,5 +1,7 @@
 <div align="center">
-  <h1>🌍 Welcome to my universe!</h1>
+  <div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=40&color=F94892&center=true&vCenter=true&width=600&lines=Nguyễn+Đắc+Hiếu" alt="Nguyễn Đắc Hiếu" />
+</div>
   <p><b>Full-Stack Developer | Tech Enthusiast | Open to Collaboration</b></p>
   
   <img src="https://komarev.com/ghpvc/?username=NguyenDacHieu1303&color=purple&style=flat-square" alt="Profile Views" />
